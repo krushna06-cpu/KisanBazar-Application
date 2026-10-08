@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KisanBazar</string>
+    <string name="tagline">Direct Farm-to-Consumer &amp; Mandi Marketplace</string>
+    <string name="role_farmer">Farmer (शेतकरी)</string>
+    <string name="role_consumer">Consumer (ग्राहक)</string>
+    <string name="add_crop_listing">Add Crop Listing</string>
+    <string name="ai_price_advisor">AI Price Recommendation</string>
+    <string name="live_mandi_rates">Live APMC Mandi Rates</string>
+    <string name="architecture_blueprint">Full-Stack Architecture &amp; Code</string>
+    <string name="hero_banner_desc">KisanBazar AI Farm to Consumer Hero Banner</string>
+    <string name="language_toggle_desc">Switch between English and Marathi</string>
+</resources>
